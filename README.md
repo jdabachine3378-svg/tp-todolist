@@ -1,4 +1,4 @@
-## name: 📝 To-Do List Interactive (TP React)
+## Projet: 📝 To-Do List Interactive (TP React)
 author: Jamila Dabachine
 project_type: React SPA (Single Page Application)
 university: ENS Marrakech
